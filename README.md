@@ -5,6 +5,5 @@ Me chamo Maria Eduarda e tenho 24 anos. Atualmente, tenho retomado aos meus estu
 Espero que você seja feliz. </p>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiramariae&theme=material-palenight)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiramariae&theme=material-palenight&card_width=350)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiramariae&theme=material-palenight&layout=compact)
