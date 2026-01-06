@@ -1,9 +1,6 @@
 <h1 align=center> ✨ Olá! </h1>
-
 <p align=center> 
-Me chamo Maria Eduarda e tenho 24 anos. Atualmente, tenho retomado aos meus estudos. Gosto de chás, livros e de assuntos diversos.
-Espero que você seja feliz. </p>
-<br>
+Me chamo Maria Eduarda e tenho 24 anos, sou apaixonada por tecnologia desde a infância, por isso decidi que deveria ser um hobbie divertido! Ansiosa para ver tudo que posso criar. :) </p>
 
-![Maria Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiramariae&theme=material-palenight&card_width=350)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiramariae&theme=material-palenight&layout=compact)
+<h3>📖 Estou aprendendo</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" width="50"/>
